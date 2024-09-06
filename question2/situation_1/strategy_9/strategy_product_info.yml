@@ -1,0 +1,21 @@
+product_info:
+  part1:
+    check_cost: 2
+    fail_rate: 0.1
+    unit_cost: 4
+  part2:
+    check_cost: 3
+    fail_rate: 0.1
+    unit_cost: 18
+  product1:
+    assemble_cost: 6
+    check_cost: 3
+    disassemble_cost: 5
+    exchange_cost: 6
+    fail_rate: 0.1
+    market_value: 56
+strategy:
+- - 1
+  - 1
+- 0
+- 1

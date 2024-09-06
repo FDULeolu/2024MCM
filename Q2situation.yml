@@ -1,0 +1,96 @@
+01:
+  part1:
+    fail_rate: 0.1
+    unit_cost: 4
+    check_cost: 2
+  part2:
+    fail_rate: 0.1
+    unit_cost: 18
+    check_cost: 3
+  product1:
+    fail_rate: 0.1
+    assemble_cost: 6
+    check_cost: 3
+    market_value: 56
+    exchange_cost: 6
+    disassemble_cost: 5
+02:
+  part1:
+    fail_rate: 0.2
+    unit_cost: 4
+    check_cost: 2
+  part2:
+    fail_rate: 0.2
+    unit_cost: 18
+    check_cost: 3
+  product1:
+    fail_rate: 0.2
+    assemble_cost: 6
+    check_cost: 3
+    market_value: 56
+    exchange_cost: 6
+    disassemble_cost: 5
+03:
+  part1:
+    fail_rate: 0.1
+    unit_cost: 4
+    check_cost: 2
+  part2:
+    fail_rate: 0.1
+    unit_cost: 18
+    check_cost: 3
+  product1:
+    fail_rate: 0.1
+    assemble_cost: 6
+    check_cost: 3
+    market_value: 56
+    exchange_cost: 30
+    disassemble_cost: 5
+04:
+  part1:
+    fail_rate: 0.2
+    unit_cost: 4
+    check_cost: 1
+  part2:
+    fail_rate: 0.2
+    unit_cost: 18
+    check_cost: 1
+  product1:
+    fail_rate: 0.2
+    assemble_cost: 6
+    check_cost: 2
+    market_value: 56
+    exchange_cost: 30
+    disassemble_cost: 5
+05:
+  part1:
+    fail_rate: 0.1
+    unit_cost: 4
+    check_cost: 8
+  part2:
+    fail_rate: 0.2
+    unit_cost: 18
+    check_cost: 1
+  product1:
+    fail_rate: 0.1
+    assemble_cost: 6
+    check_cost: 2
+    market_value: 56
+    exchange_cost: 10
+    disassemble_cost: 5
+06:
+  part1:
+    fail_rate: 0.05
+    unit_cost: 4
+    check_cost: 2
+  part2:
+    fail_rate: 0.05
+    unit_cost: 18
+    check_cost: 3
+  product1:
+    fail_rate: 0.05
+    assemble_cost: 6
+    check_cost: 3
+    market_value: 56
+    exchange_cost: 10
+    disassemble_cost: 40
